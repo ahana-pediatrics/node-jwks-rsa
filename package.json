@@ -8,7 +8,7 @@
     "@types/express-jwt": "0.0.42",
     "debug": "^2.6.9",
     "jsonwebtoken": "^8.5.1",
-    "limiter": "^1.1.4",
+    "limiter": "^1.1.5",
     "lru-memoizer": "^2.0.1",
     "ms": "^2.1.1",
     "request": "^2.88.0"
